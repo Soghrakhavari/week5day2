@@ -1,0 +1,33 @@
+@media (max-width: 700px){
+    
+    .grid_list{
+        display: none;
+    }
+    div{
+        display: inline-block;
+    }
+     .button-nav{ 
+        /* background-image: url(thumbnails.png); */
+    inline-size: 5%;
+    
+
+    }
+    .span-twn{
+        font-weight: bold;
+    }
+    .main-color{
+        background-color: gray;
+        padding: 10px;
+    } 
+    .h-style{
+        font-size: 200%;
+        margin-top: 10px;
+        
+         color: red;
+    } 
+    .grid-news{
+        color: blue;
+        padding: 20px;
+    }
+}
+

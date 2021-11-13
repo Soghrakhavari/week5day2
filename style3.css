@@ -1,0 +1,60 @@
+@media (min-width: 500px){
+    .grid_list{
+        display: grid;
+        grid-template-columns: repeat(6,1fr);
+        list-style-type: none;
+        float: left;
+        
+    }
+
+    .main{
+        
+        margin: 10px;
+        color: blue;
+        background-color: gray;
+        
+        
+
+    }
+    .nav{
+        display: inline;
+        float: left;
+        margin: 13px;
+         
+        
+    }
+    .font-style{
+        font-size:large ;
+    }
+    .span-twn{
+
+        font-weight: bold;
+    }
+
+.h-style{
+    display: inline-block;
+    margin-left:40%;
+    font-weight:bold;
+    margin-top: 10px;
+    font-size:300%;
+    padding-top: 0%;
+
+    color: red;
+}
+
+.grid-news{
+    display: grid;
+    grid-template-columns: repeat(4,2FR);
+    grid-gap: 20px;
+    column-gap: 20px;
+    color: blue;
+    
+    
+}
+.main-color{
+    background-color: gray;
+    padding: 10px;
+} 
+
+
+}

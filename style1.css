@@ -1,0 +1,31 @@
+ {
+    
+    /* .meno{
+        /* display: flex; */
+        /* justify-content: center;
+        list-style-type: none; */
+    /* } */
+    /* #frid{
+        
+        /* display: inline; */
+
+        /* grid-template-columns: 10px repeat(6,1fr); */
+    
+    /* }  */ 
+    .grid{
+        display: grid;
+        grid-template-columns: repeat(5,1fr);
+    }
+    .li-style{
+        display: inline-block;
+    }
+    /* .in{
+        display: none;
+    } */
+     .kocheck.in{
+         display: none;
+     }
+     .li-style{
+        list-style-type: none;
+     }
+}
